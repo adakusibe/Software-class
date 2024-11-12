@@ -1,0 +1,1 @@
+document.getElementById("g").style.color = "blue";

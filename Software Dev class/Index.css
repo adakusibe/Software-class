@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(155, 108, 199);
+    width: 100%;
+    place-content: center; 
+    justify-content: center;
+    display: grid;
+}
+body div p{
+    color: brown;
+}
+#text1 {
+    color: blue;
+}
+h2 {
+    color: aqua;
+    font-size: medium;
+}
+#bq {
+    justify-content: center;
+    place-content: center;
+    align-content: center;
+    width: 50%;
+    display: grid;
+    background-color: aliceblue;
+}

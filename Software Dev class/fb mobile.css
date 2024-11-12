@@ -1,0 +1,21 @@
+h1 {
+    font-size: 100px;
+    }
+   @media screen and (max-width: 520px) {
+    #nn {
+       display: grid;
+    } 
+    span {
+        width: 100%;
+    }
+    img {
+        width: 80%;
+    }
+    }
+    body {
+        width: 100%;
+        place-content: center; 
+        justify-content: center;
+        display: grid;
+        background-color: rgb(122, 122, 245);
+    }

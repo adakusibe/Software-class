@@ -1,0 +1,25 @@
+body {
+ padding-left: 100px;
+}
+#mm {
+    display: flex;
+}
+h1 {
+text-align: center;
+font-size: 200px;
+margin-bottom: 0px;
+margin-top: 0px 10px;
+padding-bottom: 10px;
+}
+span {
+    width: 50%;
+img {
+    width: 100%;
+ }
+ #nn {
+    justify-content: center;
+    display: grid;
+    align-content: center;
+    margin-bottom: auto;
+ } 
+ }
